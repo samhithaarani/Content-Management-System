@@ -1,0 +1,19 @@
+#display{
+    background-image: linear-gradient(rgb(206, 154, 206),rgb(197, 91, 197),rgb(202, 63, 202));
+    border: 3px solid black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+#display #dusername{
+    color:rgb(85, 40, 145);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    background-image:linear-gradient(rgb(228, 40, 228), rgba(248, 6, 119, 0.5));
+    
+}
+#display h4{
+    color:rgb(82, 63, 76);
+}
